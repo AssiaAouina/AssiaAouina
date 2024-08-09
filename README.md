@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Header](./github-header-image.png)
 
-- 🌱 I’m currently learning CI/CD workflows using GitHub Actions and preparing for the Azure AZ-900 certification.
+- 🌱 I’m currently learning CI/CD workflows using GitHub Actions .
 - 🤔 I’m looking for help with advancing my skills in cloud computing, particularly in Azure. 
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I have a knack for combining my love for painting with digital art, and I enjoy creating 3D models 
