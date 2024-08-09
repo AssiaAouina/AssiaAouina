@@ -1,15 +1,12 @@
 ## Hi there 👋
 ![Header](./github-header-image.png)
 
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning CI/CD workflows using GitHub Actions and preparing for the Azure AZ-900 certification.
 - 🤔 I’m looking for help with advancing my skills in cloud computing, particularly in Azure. 
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I have a knack for combining my love for painting with digital art, and I enjoy creating 3D models 
 
-<h1 align="center">✨<i> _Assia</i>_ ✨ </h1>
+<h1 align="center">✨<i>🌸Assia🌸</i>✨ </h1>
 <h3 align="center">🎨 **Software Developer & Designer** | **Art Enthusiast** | **Mechanical Fabrication Specialist**</h3>
 
 
