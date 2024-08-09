@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I have a knack for combining my love for painting with digital art, and I enjoy creating 3D models 
 
-<h1 align="center">✨<i> _Assia</i>_ ✨ /h1>
+<h1 align="center">✨<i> _Assia</i>_ ✨ </h1>
 <h3 align="center">🎨 **Software Developer & Designer** | **Art Enthusiast** | **Mechanical Fabrication Specialist**</h3>
 
 
